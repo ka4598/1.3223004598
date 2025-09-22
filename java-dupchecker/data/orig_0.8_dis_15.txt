@@ -1,0 +1,4 @@
+D:\java-dupchecker\data\orig_0.8_add.txt: 100.00%
+D:\java-dupchecker\data\orig_0.8_del.txt: 75.77%
+D:\java-dupchecker\data\orig_0.8_dis_1.txt: 89.58%
+D:\java-dupchecker\data\orig_0.8_dis_10.txt: 78.27%
